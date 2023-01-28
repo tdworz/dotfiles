@@ -1,0 +1,17 @@
+[user]
+  name = Tom Dworzanski (tdworz)
+  email = tom@dworzanski.com
+  signingKey = 2A055EE434DB307282D5FE4DC3273FC1486CD511
+
+[init]
+  defaultBranch = master
+
+[commit]
+  gpgSign = true
+
+[log]
+  showSignature = true
+
+[core]
+  editor = nvim
+
